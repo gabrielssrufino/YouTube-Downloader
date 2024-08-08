@@ -39,7 +39,7 @@ python3 -m venv venv
 - **Windows**:
 
 ```bash
-env\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 - **Linux**:
