@@ -15,7 +15,7 @@ Este é um aplicativo gráfico simples para download de vídeos e áudios do You
 - **Clone este repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/youtube-downloader.git
+git clone https://github.com/gabrielssrufino/youtube-downloader.git
 ```
 
 - **Navegue para a pasta do projeto**
