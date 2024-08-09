@@ -1,7 +1,11 @@
-
 # YouTube Downloader
 
 Este é um aplicativo gráfico simples para download de vídeos e áudios do YouTube, desenvolvido em Python usando as bibliotecas customtkinter e yt-dlp. O aplicativo permite baixar vídeos ou áudios individuais, além de playlists inteiras, com uma interface amigável para o usuário.
+
+## Imagens
+
+<img align="left" alt="Descrição da Imagem" height="auto" width="45%" src="https://drive.google.com/uc?id=1ZSsLRi9iRdlmOvkyI61jGTg30-RVCiyj">
+<img align="right" alt="app home" height="auto" width="45%" src="https://drive.google.com/uc?id=19Q5o5OVQzZ8oCyQSWxE1ZkaO_u_SyLv_"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Funcionalidades
 - **Download de Vídeos**: Baixe vídeos em alta qualidade do YouTube.
